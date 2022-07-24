@@ -1,8 +1,8 @@
-global.owner = ['6281357302007','6288235435804'] // Put your number here
+global.owner = ['523319046619','6288235435804'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: '꧁ʚ𝕘𝕠𝕜𝕦❖𝕓𝕠𝕥ɞ꧂'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
 }
@@ -12,8 +12,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'I hope you\'Subscribe'
-global.author = 'Drawl Nag'
+global.packname = '𝚜𝚘𝚗𝚐𝚘𝚔𝚞𝚋𝚘𝚝/꧁ʚ𝕘𝕠𝕜𝕦❖𝕓𝕠𝕥ɞ꧂'
+global.author = '𝚜𝚘𝚗𝚐𝚘𝚔𝚞𝚋𝚘𝚝'
 
 global.multiplier = 69 // The higher, The harder levelup
 
